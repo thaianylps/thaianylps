@@ -1,16 +1,14 @@
-### Hi there 👋
+### Oi sou a Thaiany 👩‍💻
 
-<!--
-**thaianylps/thaianylps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🧡 Trabalhando como estagiaria  
+- ❤️ Atualmente estou aprendendo HTML, CSS, Laravel Framework 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Thaiany-HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Thaiany-CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Thaiany-Csharp" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Thaiany-laravel" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/115px-Laravel.svg.png?20190820171151">
+ </div>
+
+![Snake Animation](https://github.com/thaianylps/thaianylps/blob/output/github-contribution-grid-snake.svg)
