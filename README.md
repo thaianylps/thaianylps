@@ -4,11 +4,11 @@
     Oi Tudo bem? Eu sou a
     <a href="https://www.linkedin.com/in/thaiany-lopes-1865461a4/">Thaiany</a>
   </h1>
-
-
+   <p align="center">
+       No atual momento estou:
 - 🧡 Trabalhando como estagiaria  
 - ❤️ Atualmente estou aprendendo JAVA 
-
+</p>
 <div style="display: inline_block"><br>
   <img align="center" alt="Thaiany-HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thaiany-CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
