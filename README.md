@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/thaiany-lopes-1865461a4/">Thaiany</a>
   </h1>
    <p align="center">
-    No atual momento estou trabalhando como estagiaria no banco Itau🧡, estudando e aprendendo Java ❤️
+    No atual momento estou trabalhando como estagiaria no banco Itau🧡, Aprendendo o famoso Javinha ❤️
 
 </p>
 <div style="display: inline_block"><br>
