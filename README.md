@@ -2,7 +2,7 @@
 
 <h1 align="center">
     Oi Tudo bem? Eu sou a
-    <a href="https://www.linkedin.com/in/thaiany-lopes-1865461a4/">Thaiany</a>
+    <a href="https://www.linkedin.com/in/thaiany-lopes-1865461a4/">Thaiany👩‍💻</a>
   </h1>
    <p align="center">
     No atual momento estou trabalhando como estagiaria no banco Itau🧡 e aprendendo o famoso Javinha ❤️
