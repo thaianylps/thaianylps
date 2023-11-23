@@ -1,4 +1,9 @@
-### Oi sou a Thaiany 👩‍💻
+### 
+
+<h1 align="center">
+    Oi Tudo bem? Eu sou a
+    <a href="https://www.linkedin.com/in/thaiany-lopes-1865461a4/">Thaiany😃️</a>
+  </h1>
 
 
 - 🧡 Trabalhando como estagiaria  
