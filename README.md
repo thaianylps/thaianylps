@@ -3,7 +3,8 @@
 <h1 align="center">
 Oi Tudo bem? Eu sou a
 <a href="https://www.linkedin.com/in/thaiany-lopes-1865461a4/">Thaiany👩‍💻</a>
-
+<img align="right" alt="" height="300px" src="./me.png">
+ 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D629F7&random=false&width=435&lines=Bem+vindos+!)](https://git.io/typing-svg)
   </h1>
    <p align="center">
